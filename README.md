@@ -72,19 +72,6 @@ Time Complexity:
 
 ✅ O(k/n + log n) ≪ O(k log n) (Much faster for large k values)
 
-📜 How to Use the Code
-
-Clone the repository:
-
-git clone https://github.com/your-repo/river-dipping.git
-cd river-dipping
-
-Run the Python script:
-
-python river_dipping.py
-
-Adjust n (number of slots) and k (total people) as needed.
-
 🏆 Key Benefits
 
 Handles millions of people efficiently.
